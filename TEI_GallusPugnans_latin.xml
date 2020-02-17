@@ -58,16 +58,16 @@
                     <p>La segmentation de la source est conservée.</p>
                 </segmentation>
             </editorialDecl>
-        </encodingDesc>
-        <revisionDesc>
-            <change type="creation" resp="#EP"><date when="2020-02-17"/>Création du fichier: partie dialoguée p. 36-39 de la source.</change>
-        </revisionDesc> 
+        </encodingDesc> 
         <profileDesc>
             <langUsage>
                 <language ident="la">Latin</language>
                 <language ident="fr">Français</language>
             </langUsage>
         </profileDesc> 
+        <revisionDesc>
+            <change type="creation" resp="#EP"><date when="2020-02-17"/>Création du fichier: partie dialoguée p. 36-39 de la source.</change>
+        </revisionDesc> 
     </teiHeader>
     <text>
         <body>
